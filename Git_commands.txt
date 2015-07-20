@@ -1,0 +1,17 @@
+created account (surez)
+Account user name : surezsugumaran
+Password : Urgsurz03
+
+ssh-keygen -t rsa -b 4096 -C "sureshkumar@5gindia.net"
+ssh-agent -s
+eval $(ssh-agent -s)
+ssh-add <key path>
+
+clip < <public key path with extention (.pub)>
+added ssh-key in the git hub profile
+
+git clone <ssh URL>
+git pull // to pull the data from repository
+git add <file path> // to add any file to the repository
+git commit -m "<message for the current commit>"
+git push // push all commits to the repository
