@@ -18,3 +18,9 @@ git push // push all commits to the repository
 
 
 //this line added from other source
+
+creating new branch
+git checkout -b <branch name>
+git branch // to list all the branches in the repository
+git checkout <branch name> // to switch to any branch
+
