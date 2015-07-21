@@ -25,10 +25,6 @@ git checkout -b <branch name>
 git branch // to list all the branches in the repository
 git checkout <branch name> // to switch to any branch
 
-
 //surez1 added this line
 //master added this line
-
-
-
 //surez1 added this line
