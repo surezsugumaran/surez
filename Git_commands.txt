@@ -16,17 +16,6 @@ git add <file path> // to add any file to the repository
 git commit -m "<message for the current commit>"
 git push // push all commits to the repository
 
-
-//this line added from other source
-
-
-creating new branch
-git checkout -b <branch name>
-git branch // to list all the branches in the repository
-git checkout <branch name> // to switch to any branch
-
-//surez1 added this line
-//master added this line
-//surez1 added this line
-
-suresh ----
+git rm <file> //Deletes the file from the working directory and stages the deletion
+git rm --cached <file> //Removes the file from version control but preserves the file locally
+git mv <file-original> <file-renamed> //Changes the file name and prepares it for commit
