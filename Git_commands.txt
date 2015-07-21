@@ -28,3 +28,5 @@ git checkout <branch name> // to switch to any branch
 //surez1 added this line
 //master added this line
 //surez1 added this line
+
+This line is added by Shakthivel
